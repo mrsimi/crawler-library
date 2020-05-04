@@ -1,0 +1,8 @@
+C:\Users\hp\dotnet repos\side projects\crawler-lib\CrawlDNews\bin\Debug\netstandard2.0\CrawlDNews.deps.json
+C:\Users\hp\dotnet repos\side projects\crawler-lib\CrawlDNews\bin\Debug\netstandard2.0\CrawlDNews.dll
+C:\Users\hp\dotnet repos\side projects\crawler-lib\CrawlDNews\bin\Debug\netstandard2.0\CrawlDNews.pdb
+C:\Users\hp\dotnet repos\side projects\crawler-lib\CrawlDNews\obj\Debug\netstandard2.0\CrawlDNews.csprojAssemblyReference.cache
+C:\Users\hp\dotnet repos\side projects\crawler-lib\CrawlDNews\obj\Debug\netstandard2.0\CrawlDNews.AssemblyInfoInputs.cache
+C:\Users\hp\dotnet repos\side projects\crawler-lib\CrawlDNews\obj\Debug\netstandard2.0\CrawlDNews.AssemblyInfo.cs
+C:\Users\hp\dotnet repos\side projects\crawler-lib\CrawlDNews\obj\Debug\netstandard2.0\CrawlDNews.dll
+C:\Users\hp\dotnet repos\side projects\crawler-lib\CrawlDNews\obj\Debug\netstandard2.0\CrawlDNews.pdb
